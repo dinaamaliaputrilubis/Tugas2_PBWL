@@ -1,0 +1,16 @@
+{
+    "name": "dina/php-mvc",
+    "description": "Tugas 2 Pemrograman Berbasis Web Lanjutan",
+    "autoload": {
+        "psr-4": {
+            "Dina\\PhpMvc\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "dinaamaliaputrilubis",
+            "email": "105768443+dinaamaliaputrilubis@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
